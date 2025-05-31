@@ -32,6 +32,6 @@ Welcome to Global Climbing Route Explorer! This project provides interactive vis
 https://app.powerbi.com/view?r=eyJrIjoiYTE2ZWY2YzMtMjNlMS00NmYyLWJiZGQtODJhYTQyOGE0YWMzIiwidCI6IjFlNTZmY2U2LWJkYjctNGNkYy1iYTQ3LTRhMTU2NDg0YTg5NCIsImMiOjEwfQ%3D%3D&pageName=7d60b41c08d708680dfa
 
 ## Data Source and Reference
-Original dataset: https://www.kaggle.com/datasets/jordizar/climb-dataset
-Country ISO dataset: https://www.kaggle.com/datasets/juanumusic/countries-iso-codes
-Grading conversion reference: https://extremesportguide.com/wp-content/uploads/2020/05/ESG-Bouldering-Grades.jpg
+- Original dataset: https://www.kaggle.com/datasets/jordizar/climb-dataset
+- Country ISO dataset: https://www.kaggle.com/datasets/juanumusic/countries-iso-codes
+- Grading conversion reference: https://extremesportguide.com/wp-content/uploads/2020/05/ESG-Bouldering-Grades.jpg
