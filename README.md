@@ -29,7 +29,7 @@ Welcome to Global Climbing Route Explorer! This project provides interactive vis
 - Power Query: For data transformation and preparation inside Power BI.
 
 ## View dashboard
-https://app.powerbi.com/view?r=eyJrIjoiYTE2ZWY2YzMtMjNlMS00NmYyLWJiZGQtODJhYTQyOGE0YWMzIiwidCI6IjFlNTZmY2U2LWJkYjctNGNkYy1iYTQ3LTRhMTU2NDg0YTg5NCIsImMiOjEwfQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiYTE2ZWY2YzMtMjNlMS00NmYyLWJiZGQtODJhYTQyOGE0YWMzIiwidCI6IjFlNTZmY2U2LWJkYjctNGNkYy1iYTQ3LTRhMTU2NDg0YTg5NCIsImMiOjEwfQ%3D%3D&pageName=7d60b41c08d708680dfa
 
 ## Data Source
 Original dataset: https://www.kaggle.com/datasets/jordizar/climb-dataset
