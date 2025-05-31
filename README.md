@@ -9,15 +9,15 @@ Welcome to Global Climbing Route Explorer! This project provides interactive vis
 - Advanced Power BI Features: Utilized Power Query for data transformation and DAX for calculations to present data in engaging ways.
 
 ### Key Learning Obkective
-1. Data Preparation & Transformation
+*1. Data Preparation & Transformation*
 - Learned how to clean, sort, and enrich raw datasets using Power Query and DAX.
 - Created calculated columns and measures to make the data more usable within the dashboard.
 
-2. Dashboard Design Fundamentals
+*2. Dashboard Design Fundamentals*
 - Designed the layout and user flow from scratch using Figma, focusing on usability and storytelling.
 - Applied key dashboard design principles such as visual hierarchy, colour consistency, and user-centric layout structuring.
 
-3. Interactive Visualisation Techniques
+*3. Interactive Visualisation Techniques*
 - Implemented interactive features including slicers, cross-filtering visuals, and dynamic maps.
 - Visualised climbing crags and routes with filters by grade and climber preference to enhance user exploration.
 
